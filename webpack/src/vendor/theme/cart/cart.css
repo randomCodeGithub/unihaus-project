@@ -1,0 +1,16 @@
+section.cart-empty {
+    margin-top: 60px;
+}
+section.cart-empty .ic--cart {
+  font-size: 103px;
+  color: #f77a1e;
+  margin-bottom: 34px;
+}
+
+section.cart-empty h4 {
+  margin-bottom: 24px;
+}
+
+section.cart-empty .return-to-shop {
+  margin-top: 50px;
+}

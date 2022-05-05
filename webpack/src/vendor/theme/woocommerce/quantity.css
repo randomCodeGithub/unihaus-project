@@ -1,0 +1,17 @@
+.woopq-quantity-input-plus,
+.woopq-quantity-input-minus,
+.woopq-quantity-input .qty {
+  border: none;
+  height: 29px;
+}
+
+.woopq-quantity-input-plus,
+.woopq-quantity-input-minus {
+  width: 20px;
+  line-height: 28px;
+}
+
+.woopq-quantity-input {
+  width: max-content;
+  border: 1px solid #cbcbcb;
+}
